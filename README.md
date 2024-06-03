@@ -33,10 +33,6 @@ Wtyczka po uruchomieniu wygląda następująco i podzielony jest na dwie główn
   <img src="https://i.imgur.com/Jyh7B0k.png width="50%"" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/B0kfKbe.png width="50%"" />
-</p>
-
 Opcje interfejsu użytkownika:
 - **1** -- wybór obliczenia przewyższenia pomiędzy punktami
 - **2** -- wybór obliczenia pola powierzchni

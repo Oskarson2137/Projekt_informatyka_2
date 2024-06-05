@@ -16,3 +16,6 @@ Wyczyszczenie okna wynikowego.
 Zresetowanie zaznaczonch punktów na warstwie na żądanie użytkownika.
 Możliwość narysowania poligonu opartego na wybranych punktach na żądanie uzytkownika.
 Możliwość wgrania pliku .txt .csv do projektu.
+
+
+![image](https://github.com/Oskarson2137/Projekt_informatyka_2/assets/168012795/46ab9f2c-552c-4008-94b5-5cd05af4dccc)
